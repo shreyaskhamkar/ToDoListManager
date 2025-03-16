@@ -125,5 +125,5 @@ private void FilterComboBox_SelectionChanged(object sender, SelectionChangedEven
 ![image](https://github.com/user-attachments/assets/15d8579f-0721-44cd-b152-d4d3e06e3391)
 
 ## Contributors
-- **Your Name** - Developer and Maintainer
+- **Shreyas Khamkar** - Developer and Maintainer
 
